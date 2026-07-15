@@ -4,7 +4,7 @@ A fun and interactive two-player dice game built with **HTML5**, **CSS3**, and *
 
 ## 🌐 Live Demo
 
-🔗 **Live Website:**
+🔗 **Live Website:** https://piggame2player.netlify.app/
 
 
 ---
